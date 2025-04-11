@@ -1,5 +1,6 @@
 from langchain_core.prompts import PromptTemplate
 from langchain_openai import ChatOpenAI
+import os
 
 class Agent:
     def __init__(self, medical_report=None, role=None, extra_info=None):
@@ -8,8 +9,15 @@ class Agent:
         self.extra_info = extra_info
         # Initialize the prompt based on role and other info
         self.prompt_template = self.create_prompt_template()
-        # Initialize the model
-        self.model = ChatOpenAI(temperature=0, model="gpt-4o")
+        # Initialize the model with explicit API key
+        api_key = os.environ.get("OPENAI_API_KEY")
+        if not api_key:
+            raise ValueError("OPENAI_API_KEY environment variable not set")
+        self.model = ChatOpenAI(
+            temperature=0, 
+            model="gpt-4o",
+            openai_api_key=api_key
+        )
 
     def create_prompt_template(self):
         if self.role == "MultidisciplinaryTeam":

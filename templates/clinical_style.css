@@ -1,0 +1,164 @@
+/* Clinical Style for Medical Reports */
+body {
+    font-family: 'Arial', 'Helvetica', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    background-color: #f9f9f9;
+}
+
+/* Enhanced text formatting */
+strong, b {
+    font-weight: 700;
+    color: #1a5276;
+}
+
+em, i {
+    font-style: italic;
+    color: #2c3e50;
+}
+
+.header {
+    background-color: #1a5276;
+    color: white;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header h1 {
+    margin: 0;
+    font-size: 24px;
+}
+
+.report-info {
+    text-align: right;
+    font-size: 14px;
+}
+
+.report-info p {
+    margin: 5px 0;
+}
+
+.patient-info {
+    background-color: #eaf2f8;
+    padding: 15px 20px;
+    margin: 20px 0;
+    border-radius: 5px;
+}
+
+.info-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 10px;
+}
+
+.info-item {
+    padding: 5px;
+}
+
+h2 {
+    color: #1a5276;
+    border-bottom: 1px solid #d4e6f1;
+    padding-bottom: 10px;
+    margin-top: 30px;
+}
+
+h3 {
+    color: #2874a6;
+    margin-top: 20px;
+}
+
+.report-section {
+    background-color: white;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 5px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.specialist-report {
+    margin-bottom: 25px;
+}
+
+.report-content {
+    padding-left: 15px;
+    border-left: 3px solid #d4e6f1;
+    line-height: 1.8;
+}
+
+.report-content strong {
+    font-weight: 700;
+    color: #1a5276;
+}
+
+/* Bullet point styling */
+.report-content ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+.report-content li {
+    margin-bottom: 8px;
+}
+
+.final-diagnosis {
+    background-color: #eaf2f8;
+    border-left: 5px solid #3498db;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.final-diagnosis h2 {
+    color: #2874a6;
+    font-size: 22px;
+    padding-bottom: 12px;
+    border-bottom: 2px solid #3498db;
+}
+
+.final-diagnosis .report-content {
+    font-size: 15px;
+    line-height: 1.8;
+}
+
+.final-diagnosis .report-content strong {
+    font-weight: 700;
+    color: #e74c3c;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 30px;
+    padding: 15px;
+    font-size: 12px;
+    color: #7f8c8d;
+    border-top: 1px solid #d4e6f1;
+}
+
+/* Print-specific styling */
+@media print {
+    body {
+        background-color: white;
+    }
+    
+    .report-section {
+        box-shadow: none;
+        break-inside: avoid;
+    }
+    
+    .header {
+        background-color: white;
+        color: #1a5276;
+        border-bottom: 2px solid #1a5276;
+    }
+    
+    .patient-info {
+        background-color: white;
+        border: 1px solid #eaf2f8;
+    }
+    
+    .final-diagnosis {
+        background-color: white;
+    }
+}
