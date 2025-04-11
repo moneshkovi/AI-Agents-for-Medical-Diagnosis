@@ -2,6 +2,12 @@
 from dotenv import load_dotenv
 from Utils.Agents import Cardiologist, Psychologist, Pulmonologist, MultidisciplinaryTeam
 import os
+import sys
+import datetime
+
+# Add templates directory to path for importing pdf_utils
+sys.path.append(os.path.abspath('templates'))
+from pdf_utils import PDFReport
 
 # Loading API key from the dotenv file
 load_dotenv(dotenv_path='apikey.env')
@@ -40,6 +46,7 @@ team_agent = MultidisciplinaryTeam(
 # Generate the final diagnosis
 final_diagnosis = team_agent.run()
 if final_diagnosis:
+    # Save as text file (original functionality)
     final_diagnosis_text = "### Final Diagnosis:\n\n" + final_diagnosis
     txt_output_path = "Results/final_diagnosis.txt"
 
@@ -51,6 +58,31 @@ if final_diagnosis:
         txt_file.write(final_diagnosis_text)
 
     print(f"Final diagnosis has been saved to {txt_output_path}")
+    
+    # Generate PDF report (new functionality)
+    try:
+        pdf_generator = PDFReport(output_dir="Results")
+        
+        # Get report name from file path
+        report_name = os.path.basename(report_path).replace("_Patient.txt", "").replace("_", " ")
+        
+        # Generate PDF filename based on medical condition
+        timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
+        pdf_filename = f"{report_name}_Report_{timestamp}.pdf"
+        
+        pdf_path = pdf_generator.generate_pdf(
+            medical_report=medical_report,
+            cardiologist_report=responses["Cardiologist"],
+            psychologist_report=responses["Psychologist"],
+            pulmonologist_report=responses["Pulmonologist"],
+            final_diagnosis=final_diagnosis,
+            output_filename=pdf_filename
+        )
+        
+        print(f"\nPDF report has been generated: {pdf_path}")
+    except Exception as e:
+        print(f"Error generating PDF: {str(e)}")
+    
     print("\nDiagnosis Summary:")
     print(final_diagnosis)
 else:
