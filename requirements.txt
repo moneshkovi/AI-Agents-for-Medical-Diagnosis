@@ -1,9 +1,22 @@
-langchain
-langchain-community 
-langchain-openai
-langchain-experimental
-python-dotenv
-langchain_ollama
-reportlab
-weasyprint
-jinja2
+# Core dependencies
+openai>=1.0.0          # OpenAI API access for AI agents
+python-dotenv>=1.0.0   # For loading environment variables from .env files
+
+# PDF generation
+weasyprint>=60.0       # HTML to PDF conversion
+jinja2>=3.0.0          # Template engine for report generation
+reportlab>=4.0.0       # PDF generation utilities
+
+# LangChain components (if using LangChain)
+langchain>=0.0.335     # Optional - core LangChain functionality
+langchain-openai>=0.0.2 # Optional - OpenAI integration for LangChain
+langchain-community>=0.0.10 # Optional - Community tools for LangChain
+
+# Threading
+# concurrent.futures is part of the Python standard library
+
+# System dependencies note:
+# WeasyPrint requires additional system dependencies that vary by OS:
+# - Linux: apt-get install build-essential python3-dev python3-pip python3-setuptools python3-wheel python3-cffi libcairo2 libpango-1.0-0 libpangocairo-1.0-0 libgdk-pixbuf2.0-0 libffi-dev shared-mime-info
+# - macOS: brew install cairo pango gdk-pixbuf libffi
+# - Windows: GTK3 installer from https://github.com/tschoonj/GTK-for-Windows-Runtime-Environment-Installer
