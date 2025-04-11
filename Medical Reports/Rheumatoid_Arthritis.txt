@@ -1,0 +1,32 @@
+Medical Case Report
+Patient ID: 223344
+Name: Patricia Morgan
+Age: 45
+Gender: Female
+Date of Report: 2024-09-12
+
+Chief Complaint:
+Patient reports symmetrical joint pain and stiffness affecting multiple joints, most severely in hands, wrists, and knees, for approximately 14 months. She describes morning stiffness lasting 1-2 hours, significant fatigue, and occasional low-grade fever. The patient notes that joint pain worsens with inactivity and improves somewhat with movement. She has difficulty with fine motor tasks such as buttoning shirts and reports that her symptoms have progressively worsened over time.
+
+Medical History:
+Family History: Mother had rheumatoid arthritis; maternal grandmother had Sjögren's syndrome; father has no significant medical history.
+Personal Medical History:
+Hypothyroidism: Diagnosed at age 35; well-controlled with medication.
+Raynaud's Phenomenon: Symptoms began 3 years ago; managed with lifestyle modifications.
+Recurrent Sinusitis: 1-2 episodes yearly; treated with antibiotics as needed.
+Lifestyle Factors: Works as an elementary school teacher, non-smoker, minimal alcohol intake (occasional glass of wine), previously active but now limited by joint pain, maintains a healthy diet.
+Medications: Levothyroxine (75mcg daily), Ibuprofen (600mg as needed for pain, increasingly frequent use).
+
+Recent Lab and Diagnostic Results:
+Blood Tests: Elevated ESR (45 mm/hr) and CRP (22 mg/L); positive Rheumatoid Factor (85 IU/mL); positive Anti-CCP antibodies (>100 U/mL); mild normocytic anemia (hemoglobin 11.5 g/dL).
+X-rays: Early erosive changes in MCP and PIP joints of both hands; joint space narrowing in wrists; no significant changes in knees yet.
+Ultrasound: Synovial thickening and increased Doppler signal in wrists, MCPs, and PIPs bilaterally.
+Joint Aspiration (right knee): Inflammatory synovial fluid with WBC count 15,000 cells/mm³, predominantly neutrophils; negative culture.
+
+Physical Examination Findings:
+Vital Signs: Blood pressure 124/78 mmHg, heart rate 76 bpm, respiratory rate 16 breaths/min, temperature 37.2°C.
+Joint Exam: Bilateral, symmetrical swelling, warmth, and tenderness in MCP and PIP joints of hands; wrist synovitis bilaterally; mild effusion in both knees; limited range of motion in affected joints; Swan-neck deformities beginning in right index and middle fingers.
+Skin: Several small rheumatoid nodules noted on extensor surfaces of forearms.
+Cardiovascular Exam: Regular rate and rhythm; no murmurs or rubs.
+Respiratory Exam: Clear lung fields bilaterally.
+Neurological Exam: Normal strength except where limited by pain; intact sensation; normal reflexes.

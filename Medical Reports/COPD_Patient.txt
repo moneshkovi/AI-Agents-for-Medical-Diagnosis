@@ -1,0 +1,32 @@
+Medical Case Report
+Patient ID: 789012
+Name: Thomas Greene
+Age: 68
+Gender: Male
+Date of Report: 2024-09-08
+
+Chief Complaint:
+Patient presents with progressively worsening shortness of breath over the past several years, now occurring with minimal exertion. He reports a chronic productive cough with clear to yellowish sputum, worse in the mornings. The patient also complains of frequent respiratory infections (3-4 per year), wheezing, and chest tightness that is not fully relieved by his inhalers.
+
+Medical History:
+Family History: Father had emphysema; mother had hypertension; no known genetic disorders.
+Personal Medical History:
+Chronic Bronchitis: Recurring episodes for over 15 years.
+Hypertension: Diagnosed at age 55; controlled with medication.
+Osteoarthritis: Affecting knees and hips; managed with NSAIDs.
+Lifestyle Factors: Heavy smoker (1.5-2 packs daily for 45 years, continues to smoke despite medical advice), retired construction worker with history of occupational dust exposure, sedentary lifestyle due to breathing difficulties.
+Medications: Albuterol inhaler (as needed), Tiotropium (18mcg daily), Fluticasone/Salmeterol inhaler (twice daily), Lisinopril (10mg daily), Ibuprofen (400mg as needed for joint pain).
+
+Recent Lab and Diagnostic Results:
+Pulmonary Function Tests: FEV1 35% of predicted, FEV1/FVC ratio 0.55, minimal bronchodilator response.
+Chest X-ray: Hyperinflation, flattened diaphragms, increased AP diameter, bullous changes in upper lobes.
+CT Scan: Emphysematous changes predominantly in upper lobes, bronchial wall thickening.
+Arterial Blood Gas: pH 7.37, PaO2 65 mmHg, PaCO2 48 mmHg, HCO3 28 mEq/L.
+6-Minute Walk Test: Completed 220 meters with oxygen desaturation to 88%.
+
+Physical Examination Findings:
+Vital Signs: Blood pressure 138/85 mmHg, heart rate 92 bpm, respiratory rate 24 breaths/min, oxygen saturation 93% on room air.
+General Appearance: Thin male with barrel chest, using pursed-lip breathing, digital clubbing present.
+Respiratory Exam: Decreased breath sounds throughout all fields, prolonged expiratory phase, scattered wheezes and rhonchi, hyperresonance to percussion.
+Cardiovascular Exam: Tachycardia, distant heart sounds, jugular venous distention noted.
+Extremities: Trace bilateral ankle edema, no cyanosis.

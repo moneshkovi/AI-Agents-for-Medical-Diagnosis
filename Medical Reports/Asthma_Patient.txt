@@ -1,0 +1,28 @@
+Medical Case Report
+Patient ID: 567890
+Name: Sarah Martinez
+Age: 34
+Gender: Female
+Date of Report: 2024-09-05
+
+Chief Complaint:
+Patient reports recurring episodes of wheezing, chest tightness, and shortness of breath, particularly at night and early morning. Symptoms worsen with physical activity and exposure to cold air. The patient also mentions a persistent dry cough that has lasted for several weeks.
+
+Medical History:
+Family History: Mother has asthma; father has seasonal allergies; sister has eczema.
+Personal Medical History:
+Allergic Rhinitis: Diagnosed at age 12; manages with over-the-counter antihistamines.
+Eczema: Mild case since childhood; manages with topical corticosteroids.
+Lifestyle Factors: Works as a high school teacher, non-smoker, moderate alcohol consumption (1-2 drinks per week), exercises 2-3 times weekly but reports exercise-induced breathing difficulties.
+Medications: Loratadine (10mg daily), topical hydrocortisone cream as needed.
+
+Recent Lab and Diagnostic Results:
+Spirometry: FEV1 reduced to 75% of predicted value; 15% improvement after bronchodilator.
+Peak Flow Measurements: Morning readings consistently 20-30% lower than evening readings.
+Chest X-ray: No acute findings; mild hyperinflation noted.
+Allergy Testing: Positive for dust mites, pollen, and cat dander.
+
+Physical Examination Findings:
+Vital Signs: Blood pressure 118/76 mmHg, heart rate 88 bpm, respiratory rate 20 breaths/min, oxygen saturation 96% on room air.
+Respiratory Exam: Expiratory wheezes in all lung fields, prolonged expiratory phase.
+ENT Exam: Pale, boggy nasal mucosa with clear discharge; no sinus tenderness.

@@ -1,0 +1,32 @@
+Medical Case Report
+Patient ID: 890123
+Name: Emily Lawson
+Age: 36
+Gender: Female
+Date of Report: 2024-09-09
+
+Chief Complaint:
+Patient reports profound, persistent fatigue that has not improved with rest for over 8 months. She describes the fatigue as "debilitating" and different from normal tiredness, often preventing her from completing basic daily activities. The patient also reports post-exertional malaise (severe worsening of symptoms after even minor physical or mental exertion), unrefreshing sleep despite sleeping 9-10 hours nightly, cognitive difficulties ("brain fog"), recurrent sore throat, and muscle and joint pain without swelling.
+
+Medical History:
+Family History: Mother has fibromyalgia; father has no significant medical history; sister has Hashimoto's thyroiditis.
+Personal Medical History:
+Mononucleosis: Diagnosed at age 34; symptoms of current condition began approximately 3 months after apparent recovery.
+Irritable Bowel Syndrome: Intermittent symptoms since age 28; worsened in the past year.
+Migraine Headaches: Occasional (1-2 per month); managed with OTC medication.
+Lifestyle Factors: Works as a graphic designer (currently on medical leave), previously physically active (yoga 3x/week, cycling), now largely housebound due to fatigue, maintains a balanced diet but reports food sensitivities.
+Medications: Acetaminophen and ibuprofen as needed for pain, melatonin occasionally for sleep.
+
+Recent Lab and Diagnostic Results:
+Blood Tests: CBC, metabolic panel, thyroid function, and autoimmune panels all within normal limits. Negative for rheumatoid factors, Lyme disease, and HIV.
+Sleep Study: No evidence of sleep apnea; decreased slow wave sleep noted.
+Cardiac Evaluation: Normal stress test, normal echocardiogram.
+Neurological Examination: No focal deficits detected.
+MRI of Brain: No abnormalities detected.
+
+Physical Examination Findings:
+Vital Signs: Blood pressure 112/72 mmHg, heart rate 82 bpm (increases to 115 upon standing), respiratory rate 16 breaths/min, temperature 36.8°C.
+General Appearance: Alert, appropriate affect but appears fatigued, no acute distress.
+Musculoskeletal Exam: Multiple tender points on palpation, particularly in neck, shoulders, and back; no joint swelling or erythema.
+Cardiovascular Exam: Regular rate and rhythm, no murmurs or gallops.
+Neurological Exam: Normal strength in all extremities; sensory testing intact; mild cognitive slowing during serial 7s test.

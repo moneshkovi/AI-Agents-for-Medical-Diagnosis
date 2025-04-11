@@ -1,0 +1,28 @@
+Medical Case Report
+Patient ID: 678901
+Name: Jennifer Bailey
+Age: 42
+Gender: Female
+Date of Report: 2024-09-07
+
+Chief Complaint:
+Patient reports persistent feelings of sadness, emptiness, and hopelessness for the past 6 months. She describes loss of interest in previously enjoyed activities, significant weight loss (15 pounds in 3 months without trying), difficulty sleeping (both falling asleep and staying asleep), and constant fatigue. The patient also mentions difficulty concentrating at work and recurring thoughts that "life isn't worth living," though she denies specific suicidal plans.
+
+Medical History:
+Family History: Mother had clinical depression; maternal aunt had bipolar disorder; father has no significant psychiatric history.
+Personal Medical History:
+Hypothyroidism: Diagnosed at age 35; well-controlled with medication.
+Migraine Headaches: Since adolescence; triggered by stress and hormonal changes.
+Lifestyle Factors: Works as an accountant with long hours during tax season, divorced 8 months ago after 15 years of marriage, lives alone, minimal exercise, reduced social interactions in recent months.
+Medications: Levothyroxine (75mcg daily), Sumatriptan (as needed for migraines).
+
+Recent Lab and Diagnostic Results:
+Blood Tests: Thyroid function tests within normal limits, vitamin D slightly low at 25 ng/mL, no other significant abnormalities.
+PHQ-9 Score: 21 (severe depression range).
+GAD-7 Score: 16 (severe anxiety range).
+
+Physical Examination Findings:
+Vital Signs: Blood pressure 110/70 mmHg, heart rate 68 bpm, respiratory rate 16 breaths/min.
+General Appearance: Well-groomed but with flat affect, minimal eye contact, psychomotor slowing evident.
+Neurological Exam: No focal deficits; cognitive function intact but with diminished concentration.
+Mental Status Exam: Oriented to person, place, and time; mood described as "empty"; thought content notable for feelings of worthlessness and excessive guilt; no hallucinations or delusions; insight and judgment intact.

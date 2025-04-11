@@ -1,0 +1,32 @@
+Medical Case Report
+Patient ID: 112233
+Name: Amelia Rodriguez
+Age: 31
+Gender: Female
+Date of Report: 2024-09-11
+
+Chief Complaint:
+Patient reports recurrent, severe headaches occurring 3-4 times monthly for the past 8 years. She describes the pain as "throbbing" and "intense," typically localized to one side of the head (alternating sides), rated 8-9/10 in severity, lasting 4-72 hours if untreated. Episodes are often preceded by visual disturbances (flashing lights, zigzag lines) and accompanied by nausea, vomiting, extreme sensitivity to light and sound, and occasional numbness or tingling in the hands or face.
+
+Medical History:
+Family History: Mother and maternal aunt have migraines; father has no significant medical history.
+Personal Medical History:
+Hormonal Migraines: First appeared at menarche; typically worsen during menstruation.
+Depression/Anxiety: Mild symptoms managed with therapy, no current medication.
+Gastroesophageal Reflux Disease (GERD): Diagnosed 2 years ago; managed with diet and occasional antacids.
+Lifestyle Factors: Works as a software developer (frequent screen time), irregular sleep patterns due to headaches, moderate caffeine intake (2 cups coffee daily), identifies chocolate, red wine, and lack of sleep as migraine triggers.
+Medications: Sumatriptan (100mg as needed for acute attacks), Naproxen (500mg as needed for pain), Oral contraceptives (for cycle regulation).
+
+Recent Lab and Diagnostic Results:
+MRI of Brain: No structural abnormalities, lesions, or abnormal enhancement.
+CT Scan: No acute intracranial abnormality.
+EEG: No epileptiform activity or focal slowing.
+Blood Tests: Complete blood count, metabolic panel, and thyroid function within normal limits.
+Headache Diary: Reveals correlation between headaches and menstrual cycle, stress levels, and certain dietary factors.
+
+Physical Examination Findings:
+Vital Signs: Blood pressure 118/74 mmHg, heart rate 72 bpm, respiratory rate 14 breaths/min.
+Neurological Exam: Cranial nerves intact; no focal deficits; normal muscle tone, strength, and reflexes.
+Fundoscopic Exam: Normal optic discs with no evidence of papilledema.
+HEENT Exam: No sinus tenderness, normal temporomandibular joint function, no carotid bruits.
+Mental Status: Alert and oriented; normal mood and affect; normal thought content and speech.

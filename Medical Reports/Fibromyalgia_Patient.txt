@@ -1,0 +1,32 @@
+Medical Case Report
+Patient ID: 556677
+Name: Olivia White
+Age: 47
+Gender: Female
+Date of Report: 2024-09-15
+
+Chief Complaint:
+Patient reports widespread, chronic pain affecting "her entire body" for approximately 3 years, with gradual worsening over time. She describes the pain as "burning," "aching," and "stabbing," particularly intense in the neck, shoulders, back, and hips. The patient also reports extreme fatigue not relieved by rest, persistent sleep disturbances (difficulty falling and staying asleep), cognitive difficulties ("fibro fog"), headaches, and heightened sensitivity to touch, bright lights, and loud sounds.
+
+Medical History:
+Family History: Mother had fibromyalgia and depression; maternal aunt had chronic fatigue syndrome; father had no significant medical conditions.
+Personal Medical History:
+Irritable Bowel Syndrome: Diagnosed 10 years ago; symptoms fluctuate with stress levels.
+Migraine Headaches: Since adolescence; increased frequency in recent years.
+Depression and Anxiety: Diagnosed 5 years ago; managed with medication and therapy.
+Temporomandibular Joint Disorder (TMJ): Managed with night guard and anti-inflammatories.
+Lifestyle Factors: Works as a part-time librarian (reduced from full-time due to symptoms), divorced with two adult children, minimal exercise due to pain exacerbation, follows anti-inflammatory diet with limited success.
+Medications: Duloxetine (60mg daily), Amitriptyline (25mg at bedtime), Cyclobenzaprine (5mg as needed for muscle spasms), Ibuprofen (400-600mg as needed for pain), Sumatriptan (100mg as needed for migraines).
+
+Recent Lab and Diagnostic Results:
+Blood Tests: Complete blood count, metabolic panel, inflammatory markers (ESR, CRP), thyroid function, rheumatoid factor, and ANA all within normal limits.
+MRI of Cervical and Lumbar Spine: Mild degenerative disc disease; no herniation or nerve root impingement.
+Sleep Study: Disrupted sleep architecture with reduced slow wave and REM sleep; no evidence of sleep apnea.
+Tender Point Examination: 16 of 18 fibromyalgia tender points positive for pain.
+
+Physical Examination Findings:
+Vital Signs: Blood pressure 124/76 mmHg, heart rate 74 bpm, respiratory rate 16 breaths/min, temperature 36.7°C.
+Musculoskeletal Exam: Generalized tenderness to palpation, particularly at classic fibromyalgia tender points; normal range of motion in all joints but reports pain with movement; no joint swelling, redness, or deformity.
+Neurological Exam: Normal strength; intact sensation; normal reflexes; no focal deficits.
+Mental Status: Alert and oriented; mood appears anxious and frustrated; affect appropriate but constricted.
+Skin: No rash or lesions; mild allodynia (pain from normally non-painful stimuli) noted on light touch of shoulders and upper back.

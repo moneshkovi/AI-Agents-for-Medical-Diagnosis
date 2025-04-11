@@ -1,0 +1,32 @@
+Medical Case Report
+Patient ID: 234567
+Name: Robert Wilson
+Age: 62
+Gender: Male
+Date of Report: 2024-09-06
+
+Chief Complaint:
+Patient reports increasing fatigue, shortness of breath with exertion, and swelling in the ankles and feet over the past two months. He also notes difficulty breathing when lying flat and occasional waking at night feeling breathless. The patient mentions that he feels tired "all the time" and can no longer climb a flight of stairs without stopping to rest.
+
+Medical History:
+Family History: Father died of myocardial infarction at age 59; mother had hypertension; brother has coronary artery disease.
+Personal Medical History:
+Hypertension: Diagnosed at age 45; treated with medication.
+Type 2 Diabetes: Diagnosed at age 58; managed with oral medications.
+Hypercholesterolemia: Diagnosed at age 50; on statin therapy.
+Myocardial Infarction: Suffered a heart attack 3 years ago; underwent stent placement.
+Lifestyle Factors: Former smoker (quit 3 years ago, previously 1 pack/day for 35 years), minimal alcohol consumption, sedentary lifestyle.
+Medications: Lisinopril (20mg daily), Metformin (1000mg twice daily), Atorvastatin (40mg daily), Aspirin (81mg daily).
+
+Recent Lab and Diagnostic Results:
+Electrocardiogram (ECG): Left ventricular hypertrophy, Q waves in anterior leads suggesting old infarct.
+Chest X-ray: Cardiomegaly with signs of pulmonary edema.
+Echocardiogram: Reduced left ventricular ejection fraction (LVEF) of 35%, dilated left ventricle, regional wall motion abnormalities.
+Blood Tests: Elevated BNP (600 pg/mL), normal renal function, HbA1c 7.5%.
+Stress Test: Discontinued due to fatigue and dyspnea at low workload; no significant ST changes.
+
+Physical Examination Findings:
+Vital Signs: Blood pressure 145/85 mmHg, heart rate 92 bpm, respiratory rate 20 breaths/min, oxygen saturation 94% on room air.
+Cardiovascular Exam: S3 gallop present, jugular venous distention to 8 cm, displaced point of maximal impulse.
+Respiratory Exam: Bibasilar crackles.
+Extremities: 2+ pitting edema in both ankles and feet extending to mid-calf.

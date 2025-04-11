@@ -1,0 +1,32 @@
+Medical Case Report
+Patient ID: 334455
+Name: Noah Thompson
+Age: 39
+Gender: Male
+Date of Report: 2024-09-13
+
+Chief Complaint:
+Patient reports chronic abdominal pain and discomfort for approximately 4 years, characterized by cramping, bloating, and alternating episodes of diarrhea and constipation. He describes the pain as "crampy" and diffuse throughout the abdomen, typically relieved temporarily after bowel movements. Symptoms worsen during periods of stress and after consuming certain foods. The patient reports no bloody stools, significant weight loss, or nocturnal symptoms.
+
+Medical History:
+Family History: Mother has irritable bowel syndrome; father has hypertension; no family history of inflammatory bowel disease or colorectal cancer.
+Personal Medical History:
+Generalized Anxiety Disorder: Diagnosed at age 30; managed with medication and therapy.
+Tension Headaches: Occasional; managed with OTC pain relievers.
+Lifestyle Factors: Works as a financial analyst (high-stress environment), exercises regularly (runs 3x weekly), sleep disrupted by abdominal discomfort, identifies high-FODMAP foods (especially onions, garlic, and wheat) as triggers for symptoms.
+Medications: Escitalopram (10mg daily for anxiety), Dicyclomine (as needed for abdominal cramping), occasional over-the-counter loperamide for diarrhea.
+
+Recent Lab and Diagnostic Results:
+Blood Tests: Complete blood count, metabolic panel, C-reactive protein, and fecal calprotectin all within normal limits; celiac serology negative.
+Colonoscopy: Normal colonic mucosa; no evidence of inflammation, polyps, or malignancy.
+Upper Endoscopy: Normal esophagus, stomach, and duodenum; biopsies negative for H. pylori and celiac disease.
+Abdominal CT Scan: No structural abnormalities, inflammation, or masses.
+Hydrogen Breath Test: Positive for small intestinal bacterial overgrowth (SIBO).
+
+Physical Examination Findings:
+Vital Signs: Blood pressure 125/82 mmHg, heart rate 76 bpm, respiratory rate 14 breaths/min.
+Abdominal Exam: Mild diffuse tenderness throughout abdomen, particularly in left lower quadrant; no palpable masses; no hepatosplenomegaly; normal bowel sounds.
+HEENT: Normal examination.
+Cardiovascular Exam: Regular rate and rhythm; no murmurs.
+Neurological Exam: Normal findings; no focal deficits.
+Psychological Assessment: Appears mildly anxious during examination; shows signs of hypervigilance regarding bodily sensations.

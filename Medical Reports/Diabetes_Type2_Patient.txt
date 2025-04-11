@@ -1,0 +1,34 @@
+Medical Case Report
+Patient ID: 901234
+Name: David Chen
+Age: 54
+Gender: Male
+Date of Report: 2024-09-10
+
+Chief Complaint:
+Patient reports increased thirst, frequent urination (including nighttime), unexplained weight loss (12 pounds over three months despite unchanged diet), fatigue, and blurred vision. He also mentions slow-healing cuts and sores on his feet and recurring skin infections.
+
+Medical History:
+Family History: Father had type 2 diabetes; mother has hypertension; paternal grandfather died from complications of diabetes.
+Personal Medical History:
+Prediabetes: Diagnosed 5 years ago with impaired glucose tolerance; no medication prescribed.
+Hypertension: Diagnosed 3 years ago; treated with medication.
+Hyperlipidemia: Diagnosed 3 years ago; managed with statins.
+Lifestyle Factors: Works as a restaurant manager with irregular meal times, minimal exercise (walks dog 10 minutes daily), overweight (BMI 31), drinks 1-2 beers most evenings.
+Medications: Lisinopril (10mg daily), Atorvastatin (20mg daily).
+
+Recent Lab and Diagnostic Results:
+Fasting Blood Glucose: 178 mg/dL (normal <100 mg/dL).
+Hemoglobin A1C: 8.2% (normal <5.7%, prediabetes 5.7-6.4%, diabetes ≥6.5%).
+Oral Glucose Tolerance Test: 2-hour plasma glucose 245 mg/dL (normal <140 mg/dL).
+Lipid Panel: Total cholesterol 210 mg/dL, HDL 38 mg/dL, LDL 135 mg/dL, Triglycerides 185 mg/dL.
+Urinalysis: Presence of glucose in urine; no ketones; microalbuminuria present.
+Retinal Examination: Early signs of diabetic retinopathy.
+
+Physical Examination Findings:
+Vital Signs: Blood pressure 142/88 mmHg, heart rate 78 bpm, respiratory rate 16 breaths/min, weight 205 lbs, height 5'10".
+General Appearance: Mild obesity with central fat distribution.
+Skin: Acanthosis nigricans present on neck and axillae, fungal infection between toes of right foot.
+Extremities: Decreased sensation to monofilament testing on bilateral feet; pulses intact but diminished; no ulceration.
+Cardiovascular Exam: Regular rate and rhythm; no murmurs or bruits.
+Neurological Exam: Mild symmetric distal sensory deficit in lower extremities.
