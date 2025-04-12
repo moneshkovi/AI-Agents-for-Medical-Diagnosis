@@ -1,6 +1,6 @@
 # AI Agents for Medical Diagnosis
 
-<img width="900" alt="image" src="https://github.com/user-attachments/assets/b7c87bf6-dfff-42fe-b8d1-9be9e6c7ce86">
+![AI Agents for Medical Diagnosis System Diagram](Graph.png)
 
 A comprehensive Python system designed to create specialized LLM-based AI agents that analyze complex medical cases. The system integrates insights from various medical specialists to provide thorough assessments and personalized treatment recommendations, demonstrating the potential of AI in multidisciplinary medicine.
 
